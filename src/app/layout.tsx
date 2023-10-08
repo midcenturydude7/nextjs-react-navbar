@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import "./globals.css";
 import Navbar from "./components/Navbar";
-import Image from "next/image";
+// import Image from "next/image";
 
 export const metadata = {
   title: "Navbar built with React and Framer Motion in Nextjs",
