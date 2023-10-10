@@ -19,7 +19,7 @@ const navItems = [
     name: "Guestbook",
   },
   {
-    path: "/writing",
+    path: "writing",
     name: "Writing",
   },
 ];
