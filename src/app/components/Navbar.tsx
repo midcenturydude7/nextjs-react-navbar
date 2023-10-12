@@ -46,7 +46,7 @@ export default function Navbar() {
                 isActive ? "text-zinc-100" : "text-zinc-400"
               }`}
               href={item.path}
-              dataactive={isActive}
+              data-active={isActive}
               onMouseOver={() => setHoveredPath(item.path)}
               onMouseLeave={() => setHoveredPath(pathname)}>
               <span>{item.name}</span>
