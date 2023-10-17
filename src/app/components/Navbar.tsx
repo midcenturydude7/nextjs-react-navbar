@@ -43,7 +43,7 @@ export default function Navbar() {
             <Link
               key={item.path}
               className={`px-4 py-2 rounded-md text-sm lg:text-base relative no-underline duration-300 ease-in ${
-                isActive ? "text-zinc-100" : "text-zinc-400"
+                isActive ? "text-zinc-100" : "text-zinc-500"
               }`}
               href={item.path}
               data-active={isActive}
