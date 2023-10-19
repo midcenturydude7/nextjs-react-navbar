@@ -56,7 +56,7 @@ export default function Navbar() {
                   layoutId="navbar"
                   aria-hidden="true"
                   style={{
-                    width: "90%",
+                    width: "100%",
                   }}
                   transition={{
                     type: "spring",
