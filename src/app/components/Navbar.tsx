@@ -54,7 +54,7 @@ export default function Navbar() {
                 <motion.div
                   className="absolute bottom-0 left-0 h-full bg-stone-800/80 rounded-md -z-10"
                   layoutId="navbar"
-                  aria-hidden="false"
+                  aria-hidden="true"
                   style={{
                     width: "100%",
                   }}
