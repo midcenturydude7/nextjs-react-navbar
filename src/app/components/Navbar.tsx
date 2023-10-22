@@ -63,7 +63,7 @@ export default function Navbar() {
                     bounce: 0.25,
                     stiffness: 130,
                     damping: 9,
-                    duration: 0.2,
+                    duration: 0.3,
                   }}
                 />
               )}
