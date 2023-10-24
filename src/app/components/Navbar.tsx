@@ -61,7 +61,7 @@ export default function Navbar() {
                   transition={{
                     type: "spring",
                     bounce: 0.25,
-                    stiffness: 131,
+                    stiffness: 130,
                     damping: 9,
                     duration: 0.3,
                   }}
